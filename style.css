@@ -1,0 +1,14 @@
+#content{
+    width: 50%;
+    min-height: 300px;
+
+}
+#title{
+    width: 50%;
+}
+#form_ajout,h2{
+    margin-left:30% ;
+}
+h1{
+    text-align: center;
+}
